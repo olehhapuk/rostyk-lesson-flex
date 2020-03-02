@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-container {
+  background: #343940;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+}
+
+.logo {
+  color: #fff;
+}
+
+.list {
+  margin-left: 10px;
+}
+
+.link {
+  color: #dbdbdb;
+}
+
+.form {
+  display: flex;
+  height: 30px;
+}
+
+.text {
+  margin-right: 5px;
+}
+
+.box {
+  width: 30px;
+  height: 30px;
+  background: red;
+}
